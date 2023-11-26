@@ -1,0 +1,28 @@
+:root {
+    --b-color: black;
+}
+
+.ul {
+    list-style: none;
+    list-style-type: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: var(--b-color);
+}
+
+a:visited {
+    text-decoration: none;
+    color: var(--b-color);
+}
+
+a:hover {
+    text-decoration: none;
+    color: var(--b-color);
+}
+
+a:active {
+    text-decoration: none;
+    color: var(--b-color);
+}
