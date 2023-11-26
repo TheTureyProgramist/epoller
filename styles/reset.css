@@ -26,3 +26,15 @@ a:active {
     text-decoration: none;
     color: var(--b-color);
 }
+
+.container-2 {
+    display: flex;
+    justify-content: center;
+}
+
+.container-3 {
+    display: flex;
+    justify-content: center;
+}
+
+.
